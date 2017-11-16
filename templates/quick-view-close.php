@@ -1,0 +1,1 @@
+<button class="quick-view-close">&times;</button>
